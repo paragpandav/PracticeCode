@@ -1,0 +1,16 @@
+
+public class TestBuffer {
+
+	public static void main(String[] args) 
+	{
+		//two number swap without using third variable
+		methodSwap(10,20);
+	}
+
+	private static void methodSwap() 
+	{
+		
+		
+	}
+
+}

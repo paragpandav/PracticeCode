@@ -1,0 +1,21 @@
+
+public class TestBuffer {
+	int a=10, b=20 ;
+	
+	public static void main(String[] args) 
+	{
+		//two number swap without using third variable
+		
+	
+		methodSwap(a,b);
+		
+	}
+
+	private static void methodSwap(int a, int b) 
+	{
+		a=a+b;
+		b=a-b;
+		a=a-b;
+	}
+
+}

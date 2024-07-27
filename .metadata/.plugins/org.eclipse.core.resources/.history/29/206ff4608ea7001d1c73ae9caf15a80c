@@ -1,0 +1,11 @@
+
+public class Employee {
+
+	int id;
+	String name;
+	String gender;
+	int age;
+	String department;
+	int yojoin;
+	double salary;
+}
